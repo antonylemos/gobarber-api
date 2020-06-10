@@ -101,7 +101,7 @@ Com essas ferramentas, também é possível criar os _databases_ que serão util
 
 Para mais informações, verifique o arquivo `ormconfig.json`.
 
-#### Variáveis de ambiente
+#### 🌐 Variáveis de ambiente
 
 Na raíz do projeto você encontrará o arquivo `.env.example`. A partir dele, crie um outro arquivo chamado `.env` utilizando a mesma estutura.
 
