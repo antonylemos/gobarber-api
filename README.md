@@ -4,10 +4,10 @@
 
 # 🔖 Sumário
 
-- [Sobre](#-sobre)
+- [Sobre](#%EF%B8%8F-sobre)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Como baixar e executar?](#-como-baixar-e-executar-?)
-  - [Baixando o projeto](##-baixando-o-projeto)
+- [Como baixar e executar?](#-como-baixar-e-executar)
+  - [Baixando o projeto](#%EF%B8%8F-baixando-o-projeto)
   - [Preparando o ambiente](#-preparando-o-ambiente)
     - [Bancos de dados e tabelas](#-bancos-de-dados-e-tabelas)
     - [Variáveis de ambiente](#-variáveis-de-ambiente)
@@ -87,7 +87,7 @@ Caso não estejam, execute o seguinte comando:
 
 **Observação:** caso queira interromper a execução, substitua `start` por `stop`.
 
-#### Bancos de dados e tabelas
+#### 🎲 Bancos de dados e tabelas
 
 Para ajudar na visualização dos dados que estão sendo salvos nos bancos de dados, você poderá utilizar as seguintes ferramentas:
 
